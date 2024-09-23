@@ -1,5 +1,3 @@
-# YAO - Yet Another Org
-
 This organization is born in order to keep the awesome `pkg` tool and it's companion tool `pkg-fetch` alive after they have been archived.
 
 ## `pkg`
